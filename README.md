@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/chinnathambi1406/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
