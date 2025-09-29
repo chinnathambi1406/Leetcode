@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1797-goal-parser-interpretation](https://github.com/chinnathambi1406/Leetcode/tree/master/1797-goal-parser-interpretation) |
 ## Dynamic Programming
 |  |
 | ------- |
