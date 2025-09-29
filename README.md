@@ -75,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
