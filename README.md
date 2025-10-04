@@ -36,6 +36,7 @@
 | [0162-find-peak-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/chinnathambi1406/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
