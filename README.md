@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/chinnathambi1406/Leetcode/tree/master/1797-goal-parser-interpretation) |
 ## Dynamic Programming
 |  |
@@ -44,6 +45,7 @@
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chinnathambi1406/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
