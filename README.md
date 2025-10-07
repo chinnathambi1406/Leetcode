@@ -30,6 +30,7 @@
 | [0001-two-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/chinnathambi1406/Leetcode/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -124,6 +126,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
