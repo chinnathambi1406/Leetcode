@@ -41,6 +41,7 @@
 | [0485-max-consecutive-ones](https://github.com/chinnathambi1406/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,10 +120,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -143,4 +147,20 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
