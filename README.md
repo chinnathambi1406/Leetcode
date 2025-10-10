@@ -7,6 +7,7 @@
 | [0176-second-highest-salary](https://github.com/chinnathambi1406/Leetcode/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/chinnathambigitHub/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [1811-fix-names-in-a-table](https://github.com/chinnathambi1406/Leetcode/tree/master/1811-fix-names-in-a-table) |
+| [1908-recyclable-and-low-fat-products](https://github.com/chinnathambi1406/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## String
 |  |
 | ------- |
