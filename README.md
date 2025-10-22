@@ -13,6 +13,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
 | [1797-goal-parser-interpretation](https://github.com/chinnathambi1406/Leetcode/tree/master/1797-goal-parser-interpretation) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/chinnathambi1406/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Linked List
 |  |
