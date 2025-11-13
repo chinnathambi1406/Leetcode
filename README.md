@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/chinnathambi1406/Leetcode/tree/master/0051-n-queens) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chinnathambi1406/Leetcode/tree/master/0141-linked-list-cycle) |
