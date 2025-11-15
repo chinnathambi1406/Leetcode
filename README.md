@@ -9,6 +9,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/chinnathambi1406/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/chinnathambigitHub/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/chinnathambi1406/Leetcode/tree/master/0584-find-customer-referee) |
+| [0620-not-boring-movies](https://github.com/chinnathambi1406/Leetcode/tree/master/0620-not-boring-movies) |
 | [1811-fix-names-in-a-table](https://github.com/chinnathambi1406/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/chinnathambi1406/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/chinnathambi1406/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
