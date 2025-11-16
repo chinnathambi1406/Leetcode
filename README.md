@@ -18,6 +18,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/chinnathambi1406/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
