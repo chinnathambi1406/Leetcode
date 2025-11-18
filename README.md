@@ -60,6 +60,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2058-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,4 +200,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
