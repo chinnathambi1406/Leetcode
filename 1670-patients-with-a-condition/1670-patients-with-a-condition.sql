@@ -1,0 +1,1 @@
+select patient_id,patient_name,conditions from Patients where left(conditionS,5)like'DIAB1%'OR conditions like '% DIAB1%';
