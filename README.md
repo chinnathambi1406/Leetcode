@@ -10,6 +10,7 @@
 | [0185-department-top-three-salaries](https://github.com/chinnathambigitHub/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/chinnathambi1406/Leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/chinnathambi1406/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/chinnathambi1406/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/chinnathambi1406/Leetcode/tree/master/0620-not-boring-movies) |
 | [1625-group-sold-products-by-the-date](https://github.com/chinnathambi1406/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/chinnathambi1406/Leetcode/tree/master/1670-patients-with-a-condition) |
