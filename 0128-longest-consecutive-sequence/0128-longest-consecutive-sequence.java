@@ -5,7 +5,7 @@ class Solution {
        {
         return 0;
        }
-       Set<Integer>set=new HashSet<>();
+
        int current=1;
        int maxlength=1;
       for(int i=1;i<nums.length;i++)
