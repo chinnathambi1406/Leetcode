@@ -48,6 +48,7 @@
 | [0001-two-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/chinnathambi1406/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/chinnathambi1406/Leetcode/tree/master/0051-n-queens) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/chinnathambi1406/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/chinnathambi1406/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/chinnathambi1406/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0205-isomorphic-strings) |
