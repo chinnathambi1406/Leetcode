@@ -18,6 +18,7 @@
 | [1811-fix-names-in-a-table](https://github.com/chinnathambi1406/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/chinnathambi1406/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/chinnathambi1406/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chinnathambi1406/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
 | ------- |
