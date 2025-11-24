@@ -68,6 +68,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2058-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -211,6 +212,7 @@
 | [0136-single-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/chinnathambi1406/Leetcode/tree/master/0260-single-number-iii) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
 | ------- |
