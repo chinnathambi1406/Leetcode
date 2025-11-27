@@ -60,6 +60,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/chinnathambi1406/Leetcode/tree/master/0260-single-number-iii) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -119,6 +121,7 @@
 | [0041-first-missing-positive](https://github.com/chinnathambi1406/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/chinnathambi1406/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/chinnathambi1406/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
@@ -161,6 +164,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -204,6 +208,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
