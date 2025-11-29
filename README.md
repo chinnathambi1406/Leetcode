@@ -13,6 +13,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/chinnathambi1406/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/chinnathambi1406/Leetcode/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/chinnathambi1406/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1625-group-sold-products-by-the-date](https://github.com/chinnathambi1406/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/chinnathambi1406/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/chinnathambi1406/Leetcode/tree/master/1729-find-followers-count) |
