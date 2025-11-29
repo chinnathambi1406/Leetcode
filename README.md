@@ -70,6 +70,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -94,6 +95,7 @@
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 ## Bit Manipulation
 |  |
 | ------- |
