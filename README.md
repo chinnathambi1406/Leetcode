@@ -29,6 +29,7 @@
 | [0205-isomorphic-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
 | [1797-goal-parser-interpretation](https://github.com/chinnathambi1406/Leetcode/tree/master/1797-goal-parser-interpretation) |
 ## Dynamic Programming
@@ -129,6 +130,7 @@
 | [0205-isomorphic-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -215,6 +217,7 @@
 | [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 ## Bit Manipulation
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chinnathambi1406/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
