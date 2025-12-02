@@ -48,6 +48,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/chinnathambi1406/Leetcode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0896-monotonic-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Union Find
 |  |
