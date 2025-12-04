@@ -78,6 +78,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/chinnathambi1406/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/chinnathambi1406/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -114,6 +115,7 @@
 | [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/chinnathambi1406/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -151,6 +153,7 @@
 | [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chinnathambi1406/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -171,6 +174,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
@@ -178,6 +182,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chinnathambi1406/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -255,6 +260,7 @@
 | [0136-single-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/chinnathambi1406/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Simulation
