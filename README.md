@@ -196,6 +196,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chinnathambi1406/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/chinnathambi1406/Leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/chinnathambi1406/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
@@ -288,4 +289,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/chinnathambi1406/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
