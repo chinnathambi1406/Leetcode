@@ -201,6 +201,7 @@
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chinnathambi1406/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1925-count-square-sum-triples](https://github.com/chinnathambi1406/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/chinnathambi1406/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/chinnathambi1406/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -304,4 +305,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/chinnathambi1406/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/chinnathambi1406/Leetcode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
