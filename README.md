@@ -95,6 +95,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1389-create-target-array-in-the-given-order](https://github.com/chinnathambi1406/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chinnathambi1406/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -304,6 +305,7 @@
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/chinnathambi1406/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/chinnathambi1406/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2058-concatenation-of-array) |
