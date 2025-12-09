@@ -7,8 +7,7 @@ class Solution {
             res+=max;
             if(nums.get(i)>max)
             {
-                max=nums.get(i);
-                
+                max=nums.get(i);        
             }
         }
         return res;
