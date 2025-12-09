@@ -103,6 +103,7 @@
 | [1512-number-of-good-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/chinnathambi1406/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/chinnathambi1406/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/chinnathambi1406/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/chinnathambi1406/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Merge Sort
 |  |
