@@ -95,6 +95,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1480-running-sum-of-1d-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chinnathambi1406/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Merge Sort
 |  |
