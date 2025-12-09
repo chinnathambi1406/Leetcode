@@ -40,6 +40,7 @@
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/chinnathambi1406/Leetcode/tree/master/0709-to-lower-case) |
+| [1773-count-items-matching-a-rule](https://github.com/chinnathambi1406/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1797-goal-parser-interpretation](https://github.com/chinnathambi1406/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [3340-check-balanced-string](https://github.com/chinnathambi1406/Leetcode/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
@@ -101,6 +102,7 @@
 | [1512-number-of-good-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/chinnathambi1406/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1773-count-items-matching-a-rule](https://github.com/chinnathambi1406/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/chinnathambi1406/Leetcode/tree/master/1920-build-array-from-permutation) |
