@@ -91,6 +91,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/chinnathambi1406/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0896-monotonic-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/chinnathambi1406/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Sliding Window
@@ -316,6 +318,7 @@
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chinnathambi1406/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/chinnathambi1406/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1929-concatenation-of-array) |
