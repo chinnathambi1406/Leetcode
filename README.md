@@ -28,6 +28,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/chinnathambi1406/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chinnathambi1406/Leetcode/tree/master/0242-valid-anagram) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/chinnathambi1406/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/chinnathambi1406/Leetcode/tree/master/0326-power-of-three) |
@@ -307,6 +309,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/chinnathambi1406/Leetcode/tree/master/0231-power-of-two) |
@@ -320,6 +323,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
