@@ -97,6 +97,7 @@
 | [0867-transpose-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0896-monotonic-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
@@ -190,6 +191,7 @@
 | [0389-find-the-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/chinnathambi1406/Leetcode/tree/master/0575-distribute-candies) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1512-number-of-good-pairs) |
