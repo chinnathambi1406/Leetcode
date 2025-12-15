@@ -73,6 +73,7 @@
 | [0051-n-queens](https://github.com/chinnathambi1406/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/chinnathambi1406/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +134,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/chinnathambi1406/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chinnathambi1406/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -144,6 +146,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/chinnathambi1406/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
