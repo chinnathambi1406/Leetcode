@@ -94,6 +94,7 @@
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/chinnathambi1406/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/chinnathambi1406/Leetcode/tree/master/0495-teemo-attacking) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chinnathambi1406/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -357,6 +358,7 @@
 | [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/chinnathambi1406/Leetcode/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chinnathambi1406/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
