@@ -43,6 +43,7 @@
 | [0415-add-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/chinnathambi1406/Leetcode/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/chinnathambi1406/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1796-second-largest-digit-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/chinnathambi1406/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [3340-check-balanced-string](https://github.com/chinnathambi1406/Leetcode/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
@@ -211,6 +212,7 @@
 | [1512-number-of-good-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chinnathambi1406/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/chinnathambi1406/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
