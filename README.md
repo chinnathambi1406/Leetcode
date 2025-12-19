@@ -138,6 +138,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chinnathambi1406/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chinnathambi1406/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/chinnathambi1406/Leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3701-compute-alternating-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/3701-compute-alternating-sum) |
