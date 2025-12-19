@@ -108,6 +108,7 @@
 | [0896-monotonic-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0896-monotonic-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
@@ -153,6 +154,7 @@
 | [0344-reverse-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinnathambi1406/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -168,6 +170,7 @@
 | [0389-find-the-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinnathambi1406/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chinnathambi1406/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
