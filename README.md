@@ -106,6 +106,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0896-monotonic-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -161,6 +162,7 @@
 | [0344-reverse-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinnathambi1406/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chinnathambi1406/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -177,6 +179,7 @@
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-sort-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
