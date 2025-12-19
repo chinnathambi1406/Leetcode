@@ -132,6 +132,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/chinnathambi1406/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1995-count-special-quadruplets](https://github.com/chinnathambi1406/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2058-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -225,6 +226,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/chinnathambi1406/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/chinnathambi1406/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1995-count-special-quadruplets](https://github.com/chinnathambi1406/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
@@ -402,4 +404,5 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/chinnathambi1406/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [1995-count-special-quadruplets](https://github.com/chinnathambi1406/Leetcode/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->
