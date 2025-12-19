@@ -134,6 +134,7 @@
 | [1929-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/chinnathambi1406/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2058-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chinnathambi1406/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -183,6 +184,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chinnathambi1406/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chinnathambi1406/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chinnathambi1406/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Backtracking
 |  |
@@ -234,6 +236,7 @@
 | [1748-sum-of-unique-elements](https://github.com/chinnathambi1406/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1995-count-special-quadruplets](https://github.com/chinnathambi1406/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chinnathambi1406/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -291,6 +294,7 @@
 | [0342-power-of-four](https://github.com/chinnathambi1406/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -416,6 +420,7 @@
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/chinnathambi1406/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/chinnathambi1406/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chinnathambi1406/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
