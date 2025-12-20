@@ -279,6 +279,7 @@
 | [0371-sum-of-two-integers](https://github.com/chinnathambi1406/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
