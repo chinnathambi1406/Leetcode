@@ -119,6 +119,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinnathambi1406/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinnathambi1406/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chinnathambi1406/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -276,6 +277,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinnathambi1406/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 | [0074-search-a-2d-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/chinnathambi1406/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Sliding Window
