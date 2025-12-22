@@ -137,6 +137,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/chinnathambi1406/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/chinnathambi1406/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chinnathambi1406/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -210,6 +211,7 @@
 | [0077-combinations](https://github.com/chinnathambi1406/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/chinnathambi1406/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [1512-number-of-good-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chinnathambi1406/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/chinnathambi1406/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2235-add-two-integers](https://github.com/chinnathambi1406/Leetcode/tree/master/2235-add-two-integers) |
@@ -422,6 +425,7 @@
 | [0371-sum-of-two-integers](https://github.com/chinnathambi1406/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chinnathambi1406/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -453,9 +457,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/chinnathambi1406/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/chinnathambi1406/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chinnathambi1406/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
