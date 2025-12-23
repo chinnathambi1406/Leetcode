@@ -140,6 +140,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/chinnathambi1406/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chinnathambi1406/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -205,6 +206,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/chinnathambi1406/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/chinnathambi1406/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chinnathambi1406/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chinnathambi1406/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
