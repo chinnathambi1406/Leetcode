@@ -12,6 +12,13 @@ class Solution {
             }
         }
         Arrays.sort(result);
-        return result[k-1];
+      for(int i=0;i<result.length;i++)
+      {
+        if(i==k-1)
+        {
+            return result[i];
+        }
+      }
+      return -1;
     }
 }
