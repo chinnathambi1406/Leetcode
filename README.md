@@ -19,6 +19,7 @@
 | [1625-group-sold-products-by-the-date](https://github.com/chinnathambi1406/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/chinnathambi1406/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/chinnathambi1406/Leetcode/tree/master/1729-find-followers-count) |
+| [1789-primary-department-for-each-employee](https://github.com/chinnathambi1406/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1811-fix-names-in-a-table](https://github.com/chinnathambi1406/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/chinnathambi1406/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/chinnathambi1406/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
