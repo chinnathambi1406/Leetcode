@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/chinnathambi1406/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -305,6 +306,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/chinnathambi1406/Leetcode/tree/master/0231-power-of-two) |
@@ -451,6 +453,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/chinnathambi1406/Leetcode/tree/master/0412-fizz-buzz) |
