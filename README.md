@@ -103,6 +103,7 @@
 | [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/chinnathambi1406/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/chinnathambi1406/Leetcode/tree/master/0495-teemo-attacking) |
@@ -181,6 +182,7 @@
 | [0287-find-the-duplicate-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -198,6 +200,7 @@
 | [0242-valid-anagram](https://github.com/chinnathambi1406/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/chinnathambi1406/Leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -255,6 +258,7 @@
 | [0242-valid-anagram](https://github.com/chinnathambi1406/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/chinnathambi1406/Leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/chinnathambi1406/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/0389-find-the-difference) |
@@ -295,6 +299,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/chinnathambi1406/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
