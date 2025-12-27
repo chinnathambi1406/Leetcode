@@ -333,6 +333,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinnathambi1406/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chinnathambi1406/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -366,6 +367,7 @@
 | [0055-jump-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/chinnathambi1406/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/chinnathambi1406/Leetcode/tree/master/0561-array-partition) |
+| [1323-maximum-69-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1323-maximum-69-number) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/chinnathambi1406/Leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Divide and Conquer
 |  |
