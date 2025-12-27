@@ -8,8 +8,6 @@ class Solution {
             temp/=10;
         }
         int result[]=new int[count];
-
-
         for(int i=count-1;i>=0;i--)
         {
             int digit=num%10;
