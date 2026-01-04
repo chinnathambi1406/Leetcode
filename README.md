@@ -138,6 +138,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinnathambi1406/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/chinnathambi1406/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1390-four-divisors](https://github.com/chinnathambi1406/Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -346,6 +347,7 @@
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinnathambi1406/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1323-maximum-69-number) |
+| [1390-four-divisors](https://github.com/chinnathambi1406/Leetcode/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chinnathambi1406/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
