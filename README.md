@@ -59,6 +59,7 @@
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/chinnathambi1406/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -334,6 +335,7 @@
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/chinnathambi1406/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/chinnathambi1406/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/chinnathambi1406/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chinnathambi1406/Leetcode/tree/master/0342-power-of-four) |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/chinnathambi1406/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/chinnathambi1406/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/chinnathambi1406/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chinnathambi1406/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0509-fibonacci-number) |
