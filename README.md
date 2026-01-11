@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/chinnathambi1406/Leetcode/tree/master/0058-length-of-last-word) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/chinnathambi1406/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/chinnathambi1406/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/chinnathambi1406/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -331,6 +333,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/chinnathambi1406/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chinnathambi1406/Leetcode/tree/master/0067-add-binary) |
