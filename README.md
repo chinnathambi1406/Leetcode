@@ -137,6 +137,7 @@
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1266-minimum-time-visiting-all-points](https://github.com/chinnathambi1406/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinnathambi1406/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinnathambi1406/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -352,6 +353,7 @@
 | [0728-self-dividing-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/chinnathambi1406/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinnathambi1406/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/chinnathambi1406/Leetcode/tree/master/1390-four-divisors) |
@@ -530,4 +532,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/chinnathambi1406/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
