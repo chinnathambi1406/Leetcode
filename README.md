@@ -16,6 +16,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/chinnathambi1406/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/chinnathambi1406/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/chinnathambi1406/Leetcode/tree/master/1193-monthly-transactions-i) |
+| [1517-find-users-with-valid-e-mails](https://github.com/chinnathambi1406/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1625-group-sold-products-by-the-date](https://github.com/chinnathambi1406/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/chinnathambi1406/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/chinnathambi1406/Leetcode/tree/master/1729-find-followers-count) |
