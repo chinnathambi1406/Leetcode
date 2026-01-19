@@ -138,6 +138,7 @@
 | [1051-height-checker](https://github.com/chinnathambi1406/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/chinnathambi1406/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/chinnathambi1406/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chinnathambi1406/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chinnathambi1406/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinnathambi1406/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/chinnathambi1406/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -355,6 +356,7 @@
 | [0728-self-dividing-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1013-fibonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chinnathambi1406/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chinnathambi1406/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chinnathambi1406/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1323-maximum-69-number) |
@@ -394,6 +396,7 @@
 | [0055-jump-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/chinnathambi1406/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/chinnathambi1406/Leetcode/tree/master/0561-array-partition) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chinnathambi1406/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1323-maximum-69-number) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/chinnathambi1406/Leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Divide and Conquer
