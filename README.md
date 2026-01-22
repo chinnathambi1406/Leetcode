@@ -60,6 +60,7 @@
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/chinnathambi1406/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/chinnathambi1406/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0509-fibonacci-number) |
@@ -94,6 +95,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chinnathambigitHub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/chinnathambi1406/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chinnathambi1406/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/chinnathambi1406/Leetcode/tree/master/0136-single-number) |
