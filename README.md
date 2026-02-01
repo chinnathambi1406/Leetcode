@@ -179,6 +179,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/chinnathambi1406/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/chinnathambi1406/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chinnathambi1406/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/chinnathambi1406/Leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chinnathambi1406/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -241,6 +242,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chinnathambi1406/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chinnathambi1406/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -536,6 +538,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/chinnathambi1406/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chinnathambi1406/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chinnathambi1406/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
