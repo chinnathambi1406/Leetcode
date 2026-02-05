@@ -71,6 +71,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/chinnathambi1406/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0682-baseball-game) |
 ## Array
 |  |
@@ -524,6 +525,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/chinnathambi1406/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/chinnathambi1406/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
@@ -548,4 +550,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/chinnathambi1406/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/chinnathambi1406/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
