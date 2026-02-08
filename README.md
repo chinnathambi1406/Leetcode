@@ -174,6 +174,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chinnathambi1406/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chinnathambi1406/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chinnathambi1406/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -242,6 +243,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/chinnathambi1406/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/chinnathambi1406/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/chinnathambi1406/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chinnathambi1406/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chinnathambi1406/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Backtracking
@@ -372,6 +374,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/chinnathambi1406/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/chinnathambi1406/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2235-add-two-integers](https://github.com/chinnathambi1406/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/chinnathambi1406/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/chinnathambi1406/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -403,6 +406,7 @@
 | [0561-array-partition](https://github.com/chinnathambi1406/Leetcode/tree/master/0561-array-partition) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/chinnathambi1406/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/chinnathambi1406/Leetcode/tree/master/1323-maximum-69-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/chinnathambi1406/Leetcode/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/chinnathambi1406/Leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 ## Divide and Conquer
 |  |
