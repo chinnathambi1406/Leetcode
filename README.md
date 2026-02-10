@@ -59,6 +59,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/chinnathambigitHub/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/chinnathambi1406/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/chinnathambi1406/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chinnathambi1406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@
 | [0042-trapping-rain-water](https://github.com/chinnathambi1406/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/chinnathambi1406/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/chinnathambi1406/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/chinnathambi1406/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/chinnathambi1406/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chinnathambi1406/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/chinnathambi1406/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -413,6 +415,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/chinnathambi1406/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chinnathambi1406/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chinnathambi1406/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chinnathambi1406/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
